@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://flaviusbejan.com/GDrive" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="V44GLXBAMs.GDrive" package="V44GLXBAMs" required_version="3.0"/>
+    <author email="flaviusbejan@gmail.com">Flavius Bejan</author>
+    <content src="index.html"/>
+    <description>Access your Google Drive account.</description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="images/Google-Drive-icon.png"/>
+    <name>GDrive</name>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:profile name="tv"/>
+</widget>
